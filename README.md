@@ -11,13 +11,13 @@
 - 구조적으로 견고하며 센서를 사용해 정밀한 위치제어 가능
 
 ## 구성요소
-- 컨트롤러
+- 컨트롤러 <br/>
 ![controller](./files/readme/controller.png)
-- 센서
+- 센서<br/>
 ![sensor](./files/readme/sensor.png)
-- 3D print
+- 3D print<br/>
 ![braket](./files/readme/braket.png)
-- 휠
+- 휠<br/>
 ![wheel](./files/readme/wheel.png)
-- 리프트
+- 리프트<br/>
 ![lift](./files/readme/lift.png)
